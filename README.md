@@ -92,6 +92,8 @@ Time to start your server!
 
 <!-- Image: cleanup.png -->
 ![Screenshot 2025-06-11 134908](https://github.com/user-attachments/assets/e22873cc-3499-408a-bb5c-6a07cd41a3ea)
+## INSTANCES 
+![Screenshot 2025-06-11 153257](https://github.com/user-attachments/assets/51c62285-27e5-4842-ae33-b4f6eff6e03e)
 
 
 
